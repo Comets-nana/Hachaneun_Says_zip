@@ -23,7 +23,7 @@ import say21 from "./assets/images/say21.jpg";
 import say22 from "./assets/images/say22.jpg";
 import say23 from "./assets/images/say23.jpg";
 import say24 from "./assets/images/say24.jpg";
-import say25 from "./assets/images/Nsay25.jpg";
+import say25 from "./assets/images/say25.jpg";
 import say26 from "./assets/images/say26.jpg";
 
 const says = [
